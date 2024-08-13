@@ -4,7 +4,7 @@ import myImg from "../../Assets/hello2.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
+  AiOutlineFacebook,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -68,8 +68,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  // href="https://github.com/soumyajit4419"
-                  href="#"
+                  href="https://arvinkitgallego.netlify.app"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -79,19 +78,17 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  // href="https://twitter.com/Soumyajit4419"
-                  href="#"
+                  href="https://www.facebook.com/kitarvin23/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <AiOutlineFacebook />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  // href="https://www.linkedin.com/in/soumyajit4419/"
-                  href="#"
+                  href="https://www.linkedin.com/in/arvin-kit-gallego-9b500323b/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -101,8 +98,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  // href="https://www.instagram.com/soumyajit4419"
-                  href="#"
+                  href="https://www.instagram.com/kitarvin23/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
